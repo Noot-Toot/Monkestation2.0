@@ -25,7 +25,7 @@ Space Station 13 is a paranoia-laden, round-based roleplaying game set against t
 
 [Running on the server](.github/guides/RUNNING_A_SERVER.md)
 
-[Maps and Away Missions](.github/guides/MAPS_AND_AWAY_MISSIONS.md)
+[Maps and Away Missions](.github/guides/MAPS_AND_AWAY_MISSIONS.md) 
 
 ## :exclamation: How to compile :exclamation:
 
